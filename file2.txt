@@ -5,3 +5,6 @@ adding more content to file two
 add footer note
 2024 is comming
 this is the footer note
+below content is comming from the dark mode branch
+adding more content to the dark mode branch 
+this is the dark mode branch
