@@ -1,4 +1,5 @@
 this is my file two for git course
 adding more content to file two
 
-addint more content to the dark mode branch 
+adding more content to the dark mode branch 
+this is the dark mode branch
