@@ -1,5 +1,7 @@
 this is my file two for git course
 adding more content to file two
 
+
 add footer note
 2024 is comming
+this is the footer note
