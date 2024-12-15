@@ -1,0 +1,2 @@
+# git ignore ignores the files that are mentioned in this file
+.env
