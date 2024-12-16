@@ -6,3 +6,4 @@ fixed one more bug
 
 fixing third bug
 fixed fourth bug
+another fix for pink mode
